@@ -1,4 +1,3 @@
-
 Sites à scanner :
 - voyages-sncf.com
 - ryanair.com
@@ -10,3 +9,18 @@ Rouge sur fond vert
 
 Titre de l'application :
 Resaspi
+
+Langage de programmation de l'application :
+Java
+
+Serveur d'application :
+tomcat 7
+
+Couleurs de l'application :
+Rouge sur fond vert
+Technologies web :
+- Servlet & JSP
+- Wicket
+- Struts2
+- JSF
+
